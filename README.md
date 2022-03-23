@@ -1,2 +1,2 @@
 # Hotel_Analysis
- Data science project on patterns in hotel prices in Europe
+ Analysis of trends in hotel prices in selected European Cities
